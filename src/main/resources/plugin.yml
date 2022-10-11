@@ -1,0 +1,6 @@
+name: Trading Post
+version: '${project.version}'
+main: com.denizen.tradingpost.TradingPost
+api-version: 1.13
+authors: [ Denizen ]
+description: Ultimate market and auctionhouse plugin.
